@@ -30,7 +30,13 @@ Download the file using the command
                 
 Cd in to `openshift-origin-client-tools-v3.11.0-0cbc58b-linux-64bit`
 
+                    sudo mv kubectl oc  /usr/local/bin
 
+
+                     sudo systenctl enable docker
+                     
+                     sudo systemctl start docker
+                     
 
 Use the following command 
 
